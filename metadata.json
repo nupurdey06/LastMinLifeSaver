@@ -1,0 +1,8 @@
+{
+  "name": "WinWise",
+  "description": "An intelligent full-stack task manager and planning companion called WinWise that helps you prioritize commitments, generate personalized schedules, and guide active focus sessions to plan smarter and win smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
